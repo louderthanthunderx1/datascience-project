@@ -3,3 +3,13 @@
  - Cleaning
  - Manipulating
  - Analysis
+
+
+2. House Prices - Advaced Regression Techniuqes - Kaggle
+ - Understand the problem.
+ - Analyzing
+ - Statistics
+ - cleaning missing values
+ - Feature engineering
+ - Modelling
+ - Stacking model
