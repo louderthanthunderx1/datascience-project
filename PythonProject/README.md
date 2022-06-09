@@ -13,3 +13,11 @@
  - Feature engineering
  - Modelling
  - Stacking model
+
+3. Titanic - Machine Learning from Disaster - Kaggle
+   "exploratory-data-analysis-and-feature-extraction-techniques"
+- Data Visualization
+- Missing Data Imputation
+- Feature Engineering
+- Feature Selection
+- Logistic Regression
